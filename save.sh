@@ -1,1 +1,1 @@
-git add .; git commit --no-verify -m "save"; git push origin master
+git add .; git commit --no-verify -m "save"; git push origin main
